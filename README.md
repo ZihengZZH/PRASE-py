@@ -1,5 +1,5 @@
 # PRASE-Python
-The code of paper "Unsupervised Knowledge Graph Alignment by Probabilistic Reasoning and Semantic Embedding" (in IJCAI)
+The code of paper _**Unsupervised Knowledge Graph Alignment by Probabilistic Reasoning and Semantic Embedding**_ [[arxiv](https://arxiv.org/pdf/2105.05596.pdf)] [[ijcai](https://www.ijcai.org/proceedings/2021/0278.pdf)] in Proceedings of IJCAI 2021.
 
 ## Package
 The packages of PRASE-Python is presented below.
